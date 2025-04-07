@@ -1,0 +1,20 @@
+pkgbase = cling-git
+	gives = cling
+	pkgver = 1.2
+	pkgdesc = Interactive C++ interpreter, built on the top of LLVM and Clang libraries
+	arch = i686 x86_64
+	makedepends = cmake>=3.12
+	makedepends = git
+	makedepends = ninja
+	makedepends = python3
+	makedepends = pkg-config
+	makedepends = perl
+	makedepends = python3-pygments
+	makedepends = python3-yaml
+	checkdepends = cmake
+	license = custom:Cling Release License
+	maintainer = saifshahriar <sh.saif@proton.me>
+	source = git+https://github.com/root-project/llvm-project.git#tag=cling-llvm18-20250207-01
+	source = git+https://github.com/root-project/cling.git#tag=v$pkgver
+
+pkgname = cling-git
