@@ -202,6 +202,7 @@ glffetch-git
 glow-deb
 gnome-shell-extension-installer-git
 gnome-tweaks
+gnucash
 go-bin
 go-task-deb
 godot-bin
@@ -732,6 +733,10 @@ vivarium
 vkroots-git
 vscode-deb
 vscode-insiders-deb
+vscode-languageservers:pkgbase
+vscode-languageservers:vscode-css-languageserver
+vscode-languageservers:vscode-json-languageserver
+vscode-languageservers:vscode-html-languageserver
 vscodium-bin
 vscodium-deb
 vyprvpn-deb
@@ -755,6 +760,7 @@ weechat-git
 wezterm-app
 wezterm-bin
 wgcf-bin
+whatsdesk-deb
 whatsie
 whatsie-git
 windscribe-beta-gui-deb
