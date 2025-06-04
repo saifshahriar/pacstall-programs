@@ -142,6 +142,7 @@ exploitdb-git
 expressvpn-deb
 eza-git
 f1multiviewer-deb
+facetimehd-firmware
 fake-ubuntu-advantage-tools-deb
 fast
 fastfetch-git
@@ -242,6 +243,7 @@ hello-rhino-git
 heroic-games-launcher-deb
 highlight-pointer-bin
 honkers-launcher-bin
+hplip
 htop
 httptoolkit-deb
 hwinfo-git
@@ -293,6 +295,8 @@ lazygit
 lbry-deb
 legcord-deb
 lemonbar-xft-git
+lenovolegionlinux-dkms-git
+lenovolegionlinux-git
 lens
 lf-bin
 libaquamarine-bin
@@ -563,6 +567,7 @@ ptyxis
 pulsar-deb
 pycharm-community-bin
 python3-anyascii
+python3-darkdetect
 python3-editables
 python3-flit-core
 python3-fvs
@@ -607,6 +612,7 @@ rhino-stampede-dev
 rhino-system-git
 rhino-ubxi-core
 rhino-xfwm4-theme-git
+rhinu-pkg-git
 rider-bin
 rio-wayland-deb
 rio-x11-deb
@@ -643,6 +649,7 @@ slop-git
 smartgit
 smplayer-deb
 snapper-rollback-git
+snd-hda-macbookpro
 soar
 softmaker-freeoffice-2024-deb
 softmaker-office-2024-deb
@@ -708,6 +715,7 @@ tutanota-app
 typescript
 typora-deb
 u-boot-mobian-deb
+ubxi-kde-desktop-git
 ufetch-debian
 ufetch-ubuntu
 ugee-tablet-driver-deb

@@ -1,10 +1,10 @@
 pkgname="linux-modules-stable-deb"
-gives="linux-modules-6.14.4-061404-generic"
-pkgver="6.14.4"
-buildver="6.14.4-061404.202504251003"
+gives="linux-modules-6.15.0-061500-generic"
+pkgver="6.15"
+buildver="6.15.0-061500.202505260036"
 arch=('arm64' 'amd64')
-sha256sums_arm64=("ac4516ce69387b95ccd0f61216b85b9dd0be5f0cc7c0ded0def7b6583b3adc27")
-sha256sums_amd64=("e0a042dd1b6076010d31d00acd6ac8f4d39081137229ac7637d1008698864c9a")
+sha256sums_arm64=("e68f518906ee46f58119f8e94aecc03e1e6931416d52a20c162683d7dc317e62")
+sha256sums_amd64=("ce29aff45d2a792a05549bcbcf1462017ed5b2e0083b3846cd97da9363adc6f6")
 source=("https://kernel.ubuntu.com/~kernel-ppa/mainline/v${pkgver}/${CARCH}/${gives}_${buildver}_${CARCH}.deb")
 pkgdesc="Ubuntu Linux stable kernel (Linux Modules)"
 maintainer=("Oren Klopfer <oren@taumoda.com>")
