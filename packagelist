@@ -43,6 +43,7 @@ bitwarden-deb
 bitwig-studio-3-deb
 bitwig-studio-4-deb
 bitwig-studio-deb
+ble.sh-git
 blender-bin
 bluegriffon-deb
 blueprint-compiler
@@ -354,6 +355,7 @@ lunacy-deb
 lunarclient-app
 lutris-deb
 lutris-git
+ly
 ly-git
 lynxfetch
 lyrebird-git
@@ -488,6 +490,9 @@ nuclei-bin
 nushell-bin
 nutext-bin
 nutext-git
+nvidia-beta-installer
+nvidia-feat-installer
+nvidia-prod-installer
 obquit-git
 obs-backgroundremoval
 obs-backgroundremoval-deb
